@@ -19,6 +19,7 @@
     "@emailjs/browser": "^3.7.0",
     "@hookform/error-message": "^2.0.0",
     "@supabase/supabase-js": "^1.35.6",
+    "confetti": "^1.1.5",
     "gatsby": "^4.24.7",
     "gatsby-plugin-dark-mode": "^1.1.2",
     "gatsby-plugin-google-tagmanager": "^4.6.0",
@@ -41,12 +42,8 @@
     "react-helmet": "^6.1.0",
     "react-hook-form": "^7.34.2",
     "react-icons": "^4.3.1",
-<<<<<<< HEAD
-    "react-responsive-masonry": "^2.1.6"
-=======
     "react-responsive-masonry": "^2.1.6",
     "react-use": "^17.4.0"
->>>>>>> 44e6d4249e9a3bc85680806da6ecd8bb7630ac87
   },
   "devDependencies": {
     "@iconify/react": "^4.0.0"
